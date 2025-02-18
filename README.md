@@ -1,1 +1,2 @@
 # VMware
+一些python开发的可以通过API方便管理VMware的集群的小工具
