@@ -1,6 +1,7 @@
 # VMware
 一些python开发的可以通过API方便管理VMware的集群的小工具
-程序界面
+
+快照管理工具程序界面
 ![image](https://github.com/user-attachments/assets/9b5c596e-9e19-4eeb-80d1-b08f0ae6c00a)
 
 快照管理工具 1.0 - 使用说明
