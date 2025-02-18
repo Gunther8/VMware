@@ -5,21 +5,38 @@
 ![image](https://github.com/user-attachments/assets/9b5c596e-9e19-4eeb-80d1-b08f0ae6c00a)
 
 快照管理工具 1.0 - 使用说明
+
 1. 介绍
+   
 本工具用于管理 vCenter 中的虚拟机快照，支持：
+
 •	连接 vCenter
+
 •	删除快照（仅保留最新的2个快照）
+
 •	创建快照（根据Excel配置文件决定是否包含内存）
+
 2. 运行环境
+   
+ 
 本工具基于 Python 和 Tkinter 开发，并依赖以下库：
+
 •	tkinter
+
 •	pyVim.connect
+
 •	pyVmomi
+
 •	ssl
+
 •	json
+
 •	openpyxl（用于解析 Excel 配置文件）
+
 3. 运行方式
+      
 在Windows下双击13.exe运行
+
 4. 使用指南
 4.1 连接 vCenter
 1.	在 vCenter IP 输入框中输入 vCenter 的 IP 地址。
